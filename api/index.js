@@ -1,1 +1,0 @@
-module.exports=(req,res)=>res.json({name:"DINUX HOST API",status:"online"})
